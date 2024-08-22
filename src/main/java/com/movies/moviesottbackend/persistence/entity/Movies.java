@@ -18,7 +18,7 @@ public class Movies {
     @Column(name = "src")
     private String src;
 
-    @Column(name = "summary")
+    @Column(name = "summary", columnDefinition = "TEXT")
     private String summary;
 
     @Column(name = "genre")

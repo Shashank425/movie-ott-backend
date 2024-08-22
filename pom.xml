@@ -11,7 +11,7 @@
     <groupId>com.movies</groupId>
     <artifactId>movies-ott-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>movies-ott-backend</name>
     <description>movies-ott-backend</description>
     <url/>
